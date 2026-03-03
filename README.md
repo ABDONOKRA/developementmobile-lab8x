@@ -23,3 +23,12 @@ creation de la base dennees
 # verification   
 
 <img width="949" height="577" alt="image" src="https://github.com/user-attachments/assets/254d0c90-28c4-4cf0-b235-ce59939f86b0" />
+# structure demande 
+<img width="949" height="462" alt="image" src="https://github.com/user-attachments/assets/741113ae-bac0-466e-a36e-bcdf0aa9e49d" />
+
+# Resultat attendu 
+<img width="572" height="1016" alt="image" src="https://github.com/user-attachments/assets/e629c64d-cd0d-4f7c-8e93-8bc9979d9a7f" />
+# Recherche par ville
+<img width="896" height="1077" alt="image" src="https://github.com/user-attachments/assets/f386926a-0a4e-4329-9227-b786d2eccd1d" />
+
+
