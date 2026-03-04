@@ -32,6 +32,13 @@ creation de la base dennees
 <img width="896" height="1077" alt="image" src="https://github.com/user-attachments/assets/f386926a-0a4e-4329-9227-b786d2eccd1d" />
 
 # TESTONS AVEC POSTMAN  
+### Lmethode Ajouter 
 
 <img width="1581" height="737" alt="image" src="https://github.com/user-attachments/assets/2c8d2bc5-1ed9-47fc-8824-453218f251da" />
+<img width="1449" height="953" alt="image" src="https://github.com/user-attachments/assets/d3231612-6617-4099-bf4b-bb2579ac4c35" />
+ ### verefication dans la bese de donnee
+<img width="1236" height="484" alt="image" src="https://github.com/user-attachments/assets/f094310f-ec00-4484-8524-6f53444cc237" />
+<img width="720" height="794" alt="image" src="https://github.com/user-attachments/assets/99dc82a0-57bc-4635-aa02-205a66392e93" />
+
+
 
