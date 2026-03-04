@@ -28,8 +28,15 @@ creation de la base dennees
 
 # Resultat attendu 
 <img width="572" height="1016" alt="image" src="https://github.com/user-attachments/assets/e629c64d-cd0d-4f7c-8e93-8bc9979d9a7f" />
+# dans post man 
+<img width="1364" height="953" alt="image" src="https://github.com/user-attachments/assets/b32c2bf4-4736-442d-83c1-f367537c22ef" />
+
+  
 # Recherche par ville
 <img width="896" height="1077" alt="image" src="https://github.com/user-attachments/assets/f386926a-0a4e-4329-9227-b786d2eccd1d" />
+# Via postman 
+<img width="1364" height="953" alt="image" src="https://github.com/user-attachments/assets/2df5d34e-703c-42d1-8a7c-1ca7c20c3fe6" />
+
 
 # TESTONS AVEC POSTMAN  
 ### Lmethode Ajouter 
