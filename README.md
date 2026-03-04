@@ -53,5 +53,22 @@ creation de la base dennees
 <img width="1236" height="484" alt="image" src="https://github.com/user-attachments/assets/f094310f-ec00-4484-8524-6f53444cc237" />
 <img width="720" height="794" alt="image" src="https://github.com/user-attachments/assets/99dc82a0-57bc-4635-aa02-205a66392e93" />
 
+# Partie 3 
+lajout des depndences 
+
+  <img width="850" height="562" alt="image" src="https://github.com/user-attachments/assets/754307d6-e6bb-4da8-ab40-5a5b0b501fae" />
+
+  <img width="850" height="562" alt="image" src="https://github.com/user-attachments/assets/76a3e6d1-f35b-4b46-8fc6-8ed48278b2f6" />  
+  <img width="850" height="562" alt="image" src="https://github.com/user-attachments/assets/36cc692b-3f14-412e-84b7-f67c61f8d652" />
+
+### Création du projet Android
+  
+<img width="578" height="988" alt="image" src="https://github.com/user-attachments/assets/c4935fce-f999-4b47-b6aa-1fff62a75e15" />
+
+<img width="1869" height="370" alt="image" src="https://github.com/user-attachments/assets/0b16010a-7a9e-45ce-b48e-d7b20566d998" />
+
+# Verification  
+
+  <img width="1273" height="82" alt="image" src="https://github.com/user-attachments/assets/c2b8c747-1b73-4a09-a976-e7bcc3738d03" />
 
 
