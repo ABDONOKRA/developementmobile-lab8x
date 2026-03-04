@@ -31,4 +31,7 @@ creation de la base dennees
 # Recherche par ville
 <img width="896" height="1077" alt="image" src="https://github.com/user-attachments/assets/f386926a-0a4e-4329-9227-b786d2eccd1d" />
 
+# TESTONS AVEC POSTMAN  
+
+<img width="1581" height="737" alt="image" src="https://github.com/user-attachments/assets/2c8d2bc5-1ed9-47fc-8824-453218f251da" />
 
